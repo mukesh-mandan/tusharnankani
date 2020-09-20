@@ -5,7 +5,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mukesh-mandan" alt="tusharnankani"/> </p> 
 
 - 🔭 I’m currently working on my **Competitive Coding Skills**.
 
